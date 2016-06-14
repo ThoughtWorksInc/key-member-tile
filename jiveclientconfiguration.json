@@ -1,0 +1,8 @@
+{
+    "clientUrl": "http://localhost",
+    "port": "8090",
+    "development" : true,
+    "extensionInfo" : {
+        "uuid": "5df57a46-018d-4cd4-8c72-887e3e4bf0b9"
+    }
+}

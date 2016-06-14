@@ -1,0 +1,9 @@
+db
+.idea
+extension_src
+node_modules
+*.iml
+.DS_Store
+templates.json
+extension.zip
+.module-cache/

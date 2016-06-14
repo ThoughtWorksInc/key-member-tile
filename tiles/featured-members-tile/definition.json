@@ -1,0 +1,16 @@
+{
+    "displayName" : "Featured Team Members",
+    "name" : "featured-members-tile",
+    "description" : "Display key contacts for your group along with their roles and photos",
+    "dataProviderKey":"internal",
+    "style": "CUSTOM_VIEW",
+    "displayWidth" : "ALL",
+    "pageTypes" : [ "PLACE", "USER" ],
+    "icons": {
+        "16": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png",
+        "48": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png",
+        "128": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png"
+    },
+    "config": "/featured-members-tile/configuration.html",
+    "view": "/featured-members-tile/view.html"
+}
